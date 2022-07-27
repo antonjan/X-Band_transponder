@@ -4,7 +4,7 @@ This repository will ave my X-Band downlink Satellite Transponder files<br>
 ![Bosco pcb details](Bosco_pcb_fr4_spek.png?raw=true "Bosco fr4 data sheet")<br>
 Dilectric constant 4.8<br>
 ![Bosco pcb details](Bosco_pcb_fr4_spek_2.png?raw=true "Bosco fr4 data sheet")<br>
-Thiknes<br>
+Thiknes 0.8<br>
 # Similation of filters and bias feed for rf amplifier<br>
 ## Qusc similator
 Download qusc from here http://qucsstudio.de/download/
