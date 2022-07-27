@@ -8,7 +8,9 @@ Thiknes 0.8<br>
 # Similation of filters and bias feed for rf amplifier<br>
 ## Qusc similator
 Download qusc from here http://qucsstudio.de/download/
-Board material fr4 standard material 
+Board material fr4 standard material
+![qusc pcb details](Qusc_document_substrate_settings_for_pcb.png?raw=true "Qusc pcb details")<br>
+
 
 
 
